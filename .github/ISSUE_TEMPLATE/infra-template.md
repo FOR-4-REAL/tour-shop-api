@@ -1,5 +1,5 @@
 ---
-name: FEATURE TEMPLATE
+name: INFRA TEMPLATE
 about: 인프라용 이슈 템플릿입니다.
 title: "[INFRA]"
 labels: ''
